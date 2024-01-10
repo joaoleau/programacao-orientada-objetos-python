@@ -6,7 +6,6 @@ class MinhaString(str):
     
 string =  MinhaString('Joao')
 print(string.upper())
-
 print()
 
 
